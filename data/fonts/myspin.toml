@@ -1,0 +1,20 @@
+# Font style metadata
+name = "Myspin"
+
+# # Optional Google font URL
+# google_fonts = "Lora|Roboto|Roboto+Mono"
+#
+# # Font families
+# heading_font = "Roboto"
+# body_font = "Lora"
+# nav_font = "Lora"
+# mono_font = "Roboto Mono"
+
+# Optional Google font URL
+google_fonts = "Cabin|Roboto|Roboto+Mono"
+
+# Font families
+heading_font = "Roboto"
+body_font = "Cabin"
+nav_font = "Cabin"
+mono_font = "Roboto Mono"

@@ -1,0 +1,20 @@
+# Theme metadata
+name = "myspin"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3f72af"
+
+# Menu
+# menu_primary = "#dbe2ef"
+menu_primary = "#f9f7f7"
+menu_text = "#34495e"
+menu_text_active = "#3f72af"
+menu_title = "#2b2b2b"
+
+# Home sections
+background = "#f9f7f7"
+home_section_odd = "#f9f7f7"
+home_section_even = "#f9f7f7"
