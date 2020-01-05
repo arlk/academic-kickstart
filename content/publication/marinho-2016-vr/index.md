@@ -1,6 +1,6 @@
 ---
 title: "VR study of human-multicopter interaction in a residential setting"
-date: 2016-23-03
+date: 2016-03-23
 publishDate: 2020-01-03T19:37:11.478127Z
 authors: ["Thiago Marinho", "Arun Lakshmanan", "Venanzio Cichella", "Christopher Widdowson", "Hang Cui", "Robert Mitchell Jones", "Bentic Sebastian", "Camille Goudeseune"]
 publication_types: ["1"]
