@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/arunlkx
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=Y9qAtowAAAAJ
+  link: https://scholar.google.com/citations?user=Y9qAtowAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/arlk
