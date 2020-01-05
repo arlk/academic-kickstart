@@ -1,0 +1,19 @@
+// Override this file to add your own SCSS styling.
+
+// remove nav shadow and increase font size
+.navbar-light {
+  box-shadow: none;
+  font-size: large;
+}
+
+.media.stream-item img {
+  max-width: 240px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item img {
+    max-width: 130px;
+  }
+}
