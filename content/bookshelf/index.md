@@ -9,15 +9,15 @@ Since Goodreads has such a terrible interface (I could go over all my problems w
 
 ### Currently Reading
 <figure class="half" style="display:flex">
-		<img style="height:250px" src="menarms.jpg">
+		<img style="height:250px" src="eyeworld.jpg">
 		<img style="height:250px" src="dispossessed.jpg">
 </figure>
 
 ### Read
 
 <figure class="half" style="display:flex">
+		<img style="height:250px" src="menarms.jpg">
     <img style="height:250px" src="ninthhouse.jpg">
-		<img style="height:250px" src="blank.png">
     <img style="height:250px" src="blank.png">
 		<img style="height:250px" src="blank.png">
 </figure>
