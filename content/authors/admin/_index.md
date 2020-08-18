@@ -25,9 +25,6 @@ bio: PhD Student at the University of Illinois.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/arunlkx
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Y9qAtowAAAAJ
@@ -37,6 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/arunlk/
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/91992360-arun-lakshmanan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -53,7 +53,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year PhD candidate in the [Advanced Controls Research Laboratory](http://naira.mechse.illinois.edu/) at the [University of Illinois](https://illinois.edu/) advised by [Naira Hovakimyan](http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/). Broadly, my research interests lie in the intersection between robotics, control theory, and statistical learning theory, where I focus on motion planning for mobile robots under uncertainty.
+I am a fifth year PhD candidate in the [Advanced Controls Research Laboratory](http://naira.mechse.illinois.edu/) at the [University of Illinois](https://illinois.edu/) advised by [Naira Hovakimyan](http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/). Broadly, my research interests lie in the intersection between robotics, control theory, and statistical learning theory, where I focus on safe motion planning for robots under uncertainty.
 
 While at UIUC, I also spent a few summers working outside of academia towards robotics related problems at [Facebook Reality Labs](https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities) in Redmond (2018), [Paracosm](https://paracosm.io/) (a division of [Occipital](https://occipital.com/)) in Gainesville (2017), and [Qualcomm Research](https://www.pennovation.upenn.edu/the-community/innovators/qualcomm-research-philadelphia) in Philadelphia (2016).
 

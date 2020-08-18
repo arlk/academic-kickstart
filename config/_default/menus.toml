@@ -17,8 +17,3 @@
    name = "Resume"
    url = "files/resume.pdf"
    weight = 30
-
-[[main]]
-  name = "Bookshelf"
-  url = "/bookshelf"
-  weight = 50
