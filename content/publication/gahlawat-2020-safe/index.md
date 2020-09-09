@@ -15,5 +15,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Submitted to the Conference on Robot Learning (CoRL) 2020*'
+url_pdf: https://arxiv.org/pdf/2009.03864.pdf
 ---
 
